@@ -23,6 +23,7 @@
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
       <p>Hello this is Yethu adding some lines</p>
+<h1>Lin Htin Nyo is gay</h1>
 
 <%-- Add this logging code --%>
 <%@ page import="java.io.*, java.util.Date, java.text.SimpleDateFormat" %>
